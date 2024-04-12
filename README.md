@@ -18,6 +18,7 @@
 <p><strong>شرحی کوتاه از تغییر</strong></p>
 </td>
 </tr>
+
 <tr>
 <td width="64">
 <p><strong>۱</strong></p>
@@ -29,7 +30,67 @@
 <p>افزودن کلاس جدید پیام تلگرامی </p>
 </td>
 <td width="292">
-<p>افزودن کلاسی که کلاس Message را ارث‌بری می‌کند</p>
+<p>افزودن کلاسی که کلاس Message را ارث‌بری می‌کند و برای آیدی مبدا و مقصد توابع گتر و ستر ایجاد شد</p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>۱</strong></p>
+</td>
+<td width="198">
+<p>TelegramMessageService</p>
+</td>
+<td width="141">
+<p>افزودن کلاس جدید سرویس پیام تلگرامی </p>
+</td>
+<td width="292">
+<p>افزودن کلاسی که کلاس MessageService را ارث‌بری می‌کند و شامل تمام توابع داخل این تابع می‌باشد. همینطور سه تابعی که در واسط پدر قرار دارند باید در این کلاس حضور پیدا کنند</p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>۱</strong></p>
+</td>
+<td width="198">
+<p>MessageService</p>
+</td>
+<td width="141">
+<p>افزودن تابع جدید sendTelegramMessage به این واسط </p>
+</td>
+<td width="292">
+<p>نیاز بود در این واسط این تابع را قرار دهیم</p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>۱</strong></p>
+</td>
+<td width="198">
+<p>EmailMessageService</p>
+</td>
+<td width="141">
+<p>افزودن تابع جدید sendTelegramMessage به این کلاس </p>
+</td>
+<td width="292">
+<p>چون این کلاس از واسط MessageService ارث‌بری می‌کرد پس حتما باید این تابع جدید را در خود داشته باشد </p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>۱</strong></p>
+</td>
+<td width="198">
+<p>SmsMessageService</p>
+</td>
+<td width="141">
+<p>  افزودن تابع جدید sendTelegramMessage به این کلاس</p>
+</td>
+<td width="292">
+<p> چون این کلاس از واسط MessageService ارث‌بری می‌کرد پس حتما باید این تابع جدید را در خود داشته باشد</p>
 </td>
 </tr>
 
