@@ -23,13 +23,13 @@
 <p><strong>۱</strong></p>
 </td>
 <td width="198">
-<p>MessageService</p>
+<p>TelegramMessage</p>
 </td>
 <td width="141">
-<p>افزودن تابع ارسال پیام تلگرامی</p>
+<p>افزودن کلاس جدید پیام تلگرامی </p>
 </td>
 <td width="292">
-<p>افزودن یک تابع void با عنوان sendTelegramMessage</p>
+<p>افزودن کلاسی که کلاس Message را ارث‌بری می‌کند</p>
 </td>
 </tr>
 
