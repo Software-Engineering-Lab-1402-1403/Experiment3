@@ -96,6 +96,66 @@
 
 <tr>
 <td width="64">
+<p><strong>۱</strong></p>
+</td>
+<td width="198">
+<p>TelegramMessageService</p>
+</td>
+<td width="141">
+<p>  افزودن محتوای تابع sendTelegramMessage</p>
+</td>
+<td width="292">
+<p> در کنسول چاپ می‌کند</p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>۱</strong></p>
+</td>
+<td width="198">
+<p>Main</p>
+</td>
+<td width="141">
+<p>افزودن خطوط کد برای اضافه شدن قابلیت پیام تلگرام با عدد ۳</p>
+</td>
+<td width="292">
+<p> یک خط چاپ مطلب مورد نظر</p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>۱</strong></p>
+</td>
+<td width="198">
+<p>Main</p>
+</td>
+<td width="141">
+<p>انجام کار‌های مورد نظر در صورت ورودی ۳ توسط کاربر</p>
+</td>
+<td width="292">
+<p>گرفتن وروردی‌های مورد نیاز دیگر</p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
+<p><strong>۱</strong></p>
+</td>
+<td width="198">
+<p>Main</p>
+</td>
+<td width="141">
+<p>در نهایت صدا زدن تابع فرستادن پیام تلگرامی</p>
+</td>
+<td width="292">
+<p>در ادامه‌ی شرط‌ها این مورد را اضافه کردیم</p>
+</td>
+</tr>
+
+<tr>
+<td width="64">
 <p><strong>&nbsp;</strong></p>
 </td>
 <td width="198">
