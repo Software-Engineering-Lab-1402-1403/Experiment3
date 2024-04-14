@@ -17,6 +17,6 @@ public class TelegramMessageService implements MessageService {
 
     @Override
     public void sendTelegramMessage(TelegramMessage telegramMessage) {
-        //Empty Body
+        System.out.println("Sending a SMS from " + telegramMessage.getSourceTelegramId() + " to " + telegramMessage.getTargetTelegramId() + " with content : " + telegramMessage.getContent());
     }
 }
