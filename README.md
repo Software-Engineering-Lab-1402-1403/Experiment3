@@ -154,48 +154,20 @@
 </td>
 </tr>
 
-<tr>
-<td width="64">
-<p><strong>&nbsp;</strong></p>
-</td>
-<td width="198">
-<p>&nbsp;</p>
-</td>
-<td width="141">
-<p>&nbsp;</p>
-</td>
-<td width="292">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="64">
-<p><strong>&nbsp;</strong></p>
-</td>
-<td width="198">
-<p>&nbsp;</p>
-</td>
-<td width="141">
-<p>&nbsp;</p>
-</td>
-<td width="292">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td width="64">
-<p><strong>&nbsp;</strong></p>
-</td>
-<td width="198">
-<p>&nbsp;</p>
-</td>
-<td width="141">
-<p>&nbsp;</p>
-</td>
-<td width="292">
-<p>&nbsp;</p>
-</td>
-</tr>
+<!--<tr>-->
+<!--<td width="64">-->
+<!--<p><strong>&nbsp;</strong></p>-->
+<!--</td>-->
+<!--<td width="198">-->
+<!--<p>&nbsp;</p>-->
+<!--</td>-->
+<!--<td width="141">-->
+<!--<p>&nbsp;</p>-->
+<!--</td>-->
+<!--<td width="292">-->
+<!--<p>&nbsp;</p>-->
+<!--</td>-->
+<!--</tr>-->
 </tbody>
 </table>
 
@@ -213,7 +185,7 @@
 <p><strong>موارد تحقق</strong></p>
 </td>
 <td width="454">
-<p>&nbsp;</p>
+<p>TelegramMessage , EmailMessage , SmsMessage, Message</p>
 </td>
 </tr>
 <tr>
@@ -221,7 +193,7 @@
 <p><strong>موارد نقض</strong></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p>TelegramMessageService , EmailMessageService , SmsMessageService</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +245,7 @@
 <p><strong>موارد تحقق</strong></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p>TelegramMessage , EmailMessage , SmsMessage, Message</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +253,7 @@
 <p><strong>موارد نقض</strong></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p>TelegramMessageService , EmailMessageService , SmsMessageService</p>
 </td>
 </tr>
 <tr>
@@ -293,7 +265,7 @@
 <p><strong>موارد تحقق</strong></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p>MessageService</p>
 </td>
 </tr>
 <tr>
@@ -301,7 +273,7 @@
 <p><strong>موارد نقض</strong></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p>Message</p>
 </td>
 </tr>
 </tbody>
