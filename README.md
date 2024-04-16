@@ -257,7 +257,7 @@
 <p><strong>موارد تحقق</strong></p>
 </td>
 <td>
-<p>MessageService</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +265,7 @@
 <p><strong>موارد نقض</strong></p>
 </td>
 <td>
-<p>Message</p>
+<p>در کلاس Main نوع استفاده از MessageService نقض می‌کند. نباید در استفاده از سرویس‌های مختلف به نوع آن وابسته باشیم، که در اینجا مشخصا از واسط استفاده نشده است</p>
 </td>
 </tr>
 </tbody>
