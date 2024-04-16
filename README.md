@@ -199,7 +199,7 @@
 <p><strong>موارد نقض</strong></p>
 </td>
 <td>
-<p>Main</p>
+<p>Main , TelegramMessage , EmailMessage , SmsMessage, Message , TelegramMessageService , EmailMessageService , SmsMessageService , MessageService</p>
 </td>
 </tr>
 <tr>
