@@ -306,15 +306,16 @@
 </tr>
 <tr>
 <td width="168">
-<p>&nbsp;</p>
+<p>Interface Segregation Principle</p>
 </td>
 <td width="246">
-<p>&nbsp;</p>
+<p>کلاس‌های TelegramMessageService , EmailMessageService , SmsMessageService مجبور به پیاده‌سازی همه‌ی توابع اینترفیس پدر خودشان شده‌اند در حالی که نیازی به آن ندارند</p>
 </td>
 <td width="284">
-<p>&nbsp;</p>
+<p>راه حل ارائه شده در قسمت اول این مشکل را نیز حل می‌کند</p>
 </td>
 </tr>
+
 <tr>
 <td width="168">
 <p>&nbsp;</p>
