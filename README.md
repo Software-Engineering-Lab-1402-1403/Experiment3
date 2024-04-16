@@ -171,7 +171,7 @@
 <p><strong>موارد تحقق</strong></p>
 </td>
 <td width="454">
-<p>TelegramMessage , EmailMessage , SmsMessage, Message</p>
+<p>TelegramMessage , EmailMessage , SmsMessage, Message , TelegramMessageService , EmailMessageService , SmsMessageService</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@
 <p><strong>موارد نقض</strong></p>
 </td>
 <td>
-<p>TelegramMessageService , EmailMessageService , SmsMessageService</p>
+<p></p>
 </td>
 </tr>
 <tr>
