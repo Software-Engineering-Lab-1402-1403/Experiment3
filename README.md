@@ -171,7 +171,7 @@
 <p><strong>موارد تحقق</strong></p>
 </td>
 <td width="454">
-<p>TelegramMessage , EmailMessage , SmsMessage, Message , TelegramMessageService , EmailMessageService , SmsMessageService</p>
+<p>TelegramMessage , EmailMessage , SmsMessage, Message</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +179,7 @@
 <p><strong>موارد نقض</strong></p>
 </td>
 <td>
-<p></p>
+<p>TelegramMessageService , EmailMessageService , SmsMessageService</p>
 </td>
 </tr>
 <tr>
@@ -294,14 +294,15 @@
 
 <tr>
 <td width="168">
-<p>&nbsp;</p>
+<p>Single Responsibility</p>
 </td>
 <td width="246">
-<p>&nbsp;</p>
+<p>کلاس های TelegramMessageService , EmailMessageService , SmsMessageService به نوعی توابع یکدیگر را هم دارا هستند و از قالب یک کار واحد خارج شده‌اند</p>
 </td>
 <td width="284">
-<p>&nbsp;</p>
+<p>راه‌حل قسمت ۱ این مشکل را نیز حل کرد</p>
 </td>
+
 </tr>
 <tr>
 <td width="168">
