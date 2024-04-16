@@ -211,7 +211,7 @@
 <p><strong>موارد تحقق</strong></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p>TelegramMessage , EmailMessage , SmsMessage, Message</p>
 </td>
 </tr>
 <tr>
