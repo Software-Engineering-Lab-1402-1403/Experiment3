@@ -191,7 +191,7 @@
 <p><strong>موارد تحقق</strong></p>
 </td>
 <td>
-<p>&nbsp;</p>
+<p>TelegramMessage , EmailMessage , SmsMessage, Message</p>
 </td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@
 <p><strong>موارد نقض</strong></p>
 </td>
 <td>
-<p>Main , TelegramMessage , EmailMessage , SmsMessage, Message , TelegramMessageService , EmailMessageService , SmsMessageService , MessageService</p>
+<p>Main , TelegramMessageService , EmailMessageService , SmsMessageService , MessageService</p>
 </td>
 </tr>
 <tr>
@@ -282,15 +282,16 @@
 </tr>
 <tr>
 <td width="168">
-<p>&nbsp;</p>
+<p>Open Closed Principle</p>
 </td>
 <td width="246">
-<p>&nbsp;</p>
+<p>همانطور که مشخص است در تابع Main برای هر نوع پیام جدید نیاز بود شرط روی نوع پیام بگذاریم و این قاعده اکستند کردن بدون مشکل را نقض می‌کند</p>
 </td>
 <td width="284">
-<p>&nbsp;</p>
+<p>برای حل این مشکل کافی است منطق چک کردن نوع پیام را به تابع ارسال پیام هر کدام از کلاس‌های SmsService و EmailService ببریم و در اینترفیس فقط یک تابع ارسال پیام وجود داشته باشد.</p>
 </td>
 </tr>
+
 <tr>
 <td width="168">
 <p>&nbsp;</p>
