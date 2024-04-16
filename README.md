@@ -352,20 +352,6 @@
 <p><strong>شرحی کوتاه از تغییر</strong></p>
 </td>
 </tr>
-<tr>
-<td width="64">
-<p><strong>۱</strong></p>
-</td>
-<td width="198">
-<p>TelegramMessageService</p>
-</td>
-<td width="141">
-<p>افزودن تابع ارسال پیام تلگرامی</p>
-</td>
-<td width="292">
-<p>افزودن یک تابع void با عنوان sendTelegramMessage</p>
-</td>
-</tr>
 
 <tr>
 <td width="64">
@@ -399,7 +385,7 @@
 
 <tr>
 <td width="64">
-<p><strong>۷</strong></p>
+<p><strong>۳</strong></p>
 </td>
 <td width="198">
 <p>Main</p>
@@ -414,7 +400,7 @@
 
 <tr>
 <td width="64">
-<p><strong>۸</strong></p>
+<p><strong>۴</strong></p>
 </td>
 <td width="198">
 <p>Main</p>
