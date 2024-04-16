@@ -357,7 +357,7 @@
 <p><strong>۱</strong></p>
 </td>
 <td width="198">
-<p>MessageService</p>
+<p>TelegramMessageService</p>
 </td>
 <td width="141">
 <p>افزودن تابع ارسال پیام تلگرامی</p>
@@ -369,45 +369,63 @@
 
 <tr>
 <td width="64">
-<p><strong>&nbsp;</strong></p>
+<p><strong>۱</strong></p>
 </td>
 <td width="198">
-<p>&nbsp;</p>
+<p>TelegramMessage</p>
 </td>
 <td width="141">
-<p>&nbsp;</p>
+<p>افزودن کلاس جدید پیام تلگرامی </p>
 </td>
 <td width="292">
-<p>&nbsp;</p>
+<p>افزودن کلاسی که اینترفیس Message را ارث‌بری می‌کند و برای آیدی مبدا و مقصد توابع گتر و ستر ایجاد شد</p>
 </td>
 </tr>
+
 <tr>
 <td width="64">
-<p><strong>&nbsp;</strong></p>
+<p><strong>۲</strong></p>
 </td>
 <td width="198">
-<p>&nbsp;</p>
+<p>TelegramMessageService</p>
 </td>
 <td width="141">
-<p>&nbsp;</p>
+<p>افزودن کلاس جدید سرویس پیام تلگرامی </p>
 </td>
 <td width="292">
-<p>&nbsp;</p>
+<p>افزودن کلاسی که اینترفیس MessageService را ارث‌بری می‌کند و شامل تمام توابع داخل این تابع می‌باشد.</p>
 </td>
 </tr>
+
 <tr>
 <td width="64">
-<p><strong>&nbsp;</strong></p>
+<p><strong>۷</strong></p>
 </td>
 <td width="198">
-<p>&nbsp;</p>
+<p>Main</p>
 </td>
 <td width="141">
-<p>&nbsp;</p>
+<p>افزودن خطوط کد برای اضافه شدن قابلیت پیام تلگرام با عدد ۳</p>
 </td>
 <td width="292">
-<p>&nbsp;</p>
+<p> یک خط چاپ مطلب مورد نظر</p>
 </td>
 </tr>
+
+<tr>
+<td width="64">
+<p><strong>۸</strong></p>
+</td>
+<td width="198">
+<p>Main</p>
+</td>
+<td width="141">
+<p>انجام کار‌های مورد نظر در صورت ورودی ۳ توسط کاربر</p>
+</td>
+<td width="292">
+<p>گرفتن وروردی‌های مورد نیاز دیگر</p>
+</td>
+</tr>
+
 </tbody>
 </table>
